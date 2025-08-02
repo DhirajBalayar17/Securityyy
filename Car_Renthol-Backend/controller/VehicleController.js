@@ -119,5 +119,5 @@ module.exports = {
     findById,
     deleteById,
     update,
-    upload // Export upload middleware for routes
+    upload 
 };
